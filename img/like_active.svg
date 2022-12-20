@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 50 50'>
+    <style>
+        .st0 {
+            fill: none
+        }
+        .st1 {
+            fill: #FFFFFF;
+            stroke: #FFFFFF
+        }
+    </style>
+    <g>
+        <path class='st0' d='M11.6 39.6h27.7V11.9H11.6V39.6z'/>
+        <path class='st1' d='M25.5 20.6h.6c0-2.3 2.5-4.6 5.1-4.6 3.5.0 5.3 2.8 5.3 6.1.0 8.2-11 13.6-11 13.6s-11-5.3-11-13.6c0-3.3 1.8-6.1 5.3-6.1 2.6.0 5.1 2.3 5.1 4.6H25.5z'/>
+    </g>
+</svg>
